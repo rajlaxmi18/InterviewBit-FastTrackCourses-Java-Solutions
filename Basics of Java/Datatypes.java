@@ -7,7 +7,7 @@ public class Main {
         Assign values to the following variable as described above
         Don't change the variable name
         */
-        String mystring1 = "InterviewBit";
+        String mystring1 = "InterviewBit1";
         String mystring2 = "Don't change the variable name";
         int myint = 11;
         boolean myboolean = true;
